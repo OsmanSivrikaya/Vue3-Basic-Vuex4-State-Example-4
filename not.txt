@@ -1,0 +1,1 @@
+vuex yüklemek için npm install vuex@next --projeadı
